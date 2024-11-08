@@ -1,3 +1,4 @@
+ HEAD
 # EventManagementSystem
 
 Dependency
@@ -29,3 +30,5 @@ pip install -r requirements.txt
 ```
 python manage.py runserver
 ```
+# Event_Hub
+ 8185dd77c0ae9107f1eaef0c4a12df6f1e4d2eed
